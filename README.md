@@ -84,8 +84,8 @@ My core expertise is **native Android development with Kotlin** and **cross-plat
 
 ## 🚀 Featured Projects
 
-### 📱 [MVVMDemoApp](https://github.com/umarpazir11/MVVMDemoApp)
-Android app demonstrating the MVVM pattern with Kotlin, LiveData, and ViewModel — a reference architecture for clean Android development.
+### 📱 [compose-multiplatform-app](https://github.com/umarpazir11/compose-multiplatform-app)
+Main focus of this app is to build app for an Android and iOS by using compose multiplatform, clean architecture approach, MVVM, Koin, Ktor, SQLDelight, MOKO.
 
 ### 📰 [MyNewsApp](https://github.com/umarpazir11/MyNewsApp)
 News application built with modern Android stack: Kotlin, Retrofit, and Jetpack components.
