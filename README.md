@@ -84,8 +84,8 @@ My core expertise is **native Android development with Kotlin** and **cross-plat
 
 ## 🚀 Featured Projects
 
-### 📱 [compose-multiplatform-app](https://github.com/umarpazir11/compose-multiplatform-app)
-Main focus of this app is to build app for an Android and iOS by using compose multiplatform, clean architecture approach, MVVM, Koin, Ktor, SQLDelight, MOKO.
+### 📱 [MVVMDemoApp](https://github.com/umarpazir11/MVVMDemoApp)
+Android app demonstrating the MVVM pattern with Kotlin, LiveData, and ViewModel — a reference architecture for clean Android development.
 
 ### 📰 [MyNewsApp](https://github.com/umarpazir11/MyNewsApp)
 News application built with modern Android stack: Kotlin, Retrofit, and Jetpack components.
@@ -109,7 +109,7 @@ Node.js + Docker microservices architecture with User and Order services — dem
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarpazir11&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=umarpazir11&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
