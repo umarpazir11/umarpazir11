@@ -65,6 +65,18 @@ My core expertise is **native Android development with Kotlin** and **cross-plat
 ![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-grey?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-grey?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-grey?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-grey?style=flat-square)
+![AutoGPT](https://img.shields.io/badge/AutoGPT-grey?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-grey?style=flat-square)
+![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-grey?style=flat-square)
+![Python for AI](https://img.shields.io/badge/Python_for_AI-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI Product Management](https://img.shields.io/badge/AI_Product_Management-grey?style=flat-square)
 
 ### 🔒 Security & Emerging Tech
 ![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
@@ -101,6 +113,9 @@ A Kotlin-based fitness utility app demonstrating clean architecture and Compose 
 
 ### 🚁 [DroneMapDemo](https://github.com/umarpazir11/DroneMapDemo)
 Unique drone mapping demo app showcasing real-time map integration and IoT-style device control on Android.
+
+### 💰 [PocketSage](https://github.com/umarpazir11/PocketSage)
+AI-powered personal finance assistant built with Kotlin Multiplatform (KMP), LLM integration, and Retrieval-Augmented Generation (RAG).
 
 ---
 
