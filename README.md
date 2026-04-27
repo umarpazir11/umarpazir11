@@ -20,7 +20,7 @@
 
 I'm a **Senior Software Engineer with 12+ years of experience** architecting scalable enterprise solutions across **FinTech, Automotive, and Retail** industries.
 
-My core expertise is **native Android development with Kotlin** and **cross-platform strategies with Kotlin Multiplatform (KMP)** — bridging native performance with engineering efficiency. I've shipped production apps for premium brands like **IWC** and **Hansgrohe**, built blockchain identity systems, and deployed on-device AI with TensorFlow Lite. Beyond mobile, I design **AI Agents** and **LLM-powered workflows** that automate complex engineering tasks — turning cutting-edge AI capabilities into real, production-ready solutions.
+My core expertise is **native Android development with Kotlin** and **cross-platform strategies with Kotlin Multiplatform (KMP)** — bridging native performance with engineering efficiency. I've shipped production apps for premium brands like **IWC** and **Hansgrohe**, built blockchain identity systems, and deployed on-device AI with TensorFlow Lite. Beyond mobile, I design **AI Agents** and **LLM-powered workflows** that automate complex engineering tasks — with a strong focus on **token & cost optimization** — turning cutting-edge AI capabilities into real, production-ready solutions.
 
 - 🔭 Currently building cross-platform mobile solutions at **GAL Digital GmbH**, Germany
 - 🤖 Building **AI Agents**, **LLM integrations** & workflow automation pipelines
@@ -78,6 +78,7 @@ My core expertise is **native Android development with Kotlin** and **cross-plat
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 ![AI Product Management](https://img.shields.io/badge/AI_Product_Management-grey?style=flat-square)
+![Token & Cost Optimization](https://img.shields.io/badge/Token_%26_Cost_Optimization-grey?style=flat-square)
 
 ### 🔒 Security & Emerging Tech
 ![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
