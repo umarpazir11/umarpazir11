@@ -84,20 +84,20 @@ My core expertise is **native Android development with Kotlin** and **cross-plat
 
 ## 🚀 Featured Projects
 
-### 📱 [MVVMDemoApp](https://github.com/umarpazir11/MVVMDemoApp)
-Android app demonstrating the MVVM pattern with Kotlin, LiveData, and ViewModel — a reference architecture for clean Android development.
+### 🌐 [compose-multiplatform-app](https://github.com/umarpazir11/compose-multiplatform-app)
+Kotlin Multiplatform app targeting Android & iOS with shared business logic and Compose Multiplatform UI — the flagship demo of KMP-first architecture.
+
+### 🤖 [SmartChatbotApp](https://github.com/umarpazir11/SmartChatbotApp)
+AI-powered chatbot application showcasing on-device ML integration.
 
 ### 📰 [MyNewsApp](https://github.com/umarpazir11/MyNewsApp)
 News application built with modern Android stack: Kotlin, Retrofit, and Jetpack components.
 
 ### 🏋️ [1RM Power Calculator](https://github.com/umarpazir11/1RM-Power-Calc)
-A Kotlin-based fitness utility app demonstrating clean architecture and Compose UI.
+A Kotlin-based fitness utility app demonstrating clean architecture and Compose UI with Hilt DI.
 
-### 🤖 [SmartChatbotApp](https://github.com/umarpazir11/SmartChatbotApp)
-AI-powered chatbot application showcasing on-device ML integration.
-
-### 🐳 [Microservices Project](https://github.com/umarpazir11/microservices-project)
-Node.js + Docker microservices architecture with User and Order services — demonstrating DevOps-first thinking.
+### 🚁 [DroneMapDemo](https://github.com/umarpazir11/DroneMapDemo)
+Unique drone mapping demo app showcasing real-time map integration and IoT-style device control on Android.
 
 ---
 
@@ -105,7 +105,7 @@ Node.js + Docker microservices architecture with User and Order services — dem
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umarpazir11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarpazir11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarpazir11&layout=compact&theme=tokyonight&hide_border=true&hide_fork=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
