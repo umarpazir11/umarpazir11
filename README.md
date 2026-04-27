@@ -61,11 +61,9 @@ My core expertise is **native Android development with Kotlin** and **cross-plat
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
 ### 🤖 AI & Machine Learning
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-grey?style=flat-square)
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-grey?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-grey?style=flat-square)
@@ -76,6 +74,8 @@ My core expertise is **native Android development with Kotlin** and **cross-plat
 ![AI Agents](https://img.shields.io/badge/AI_Agents-grey?style=flat-square)
 ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-grey?style=flat-square)
 ![Python for AI](https://img.shields.io/badge/Python_for_AI-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 ![AI Product Management](https://img.shields.io/badge/AI_Product_Management-grey?style=flat-square)
 
 ### 🔒 Security & Emerging Tech
@@ -99,11 +99,14 @@ My core expertise is **native Android development with Kotlin** and **cross-plat
 
 ## 🚀 Featured Projects
 
-### 🌐 [compose-multiplatform-app](https://github.com/umarpazir11/compose-multiplatform-app)
-Kotlin Multiplatform app targeting Android & iOS with shared business logic and Compose Multiplatform UI — the flagship demo of KMP-first architecture.
+### 💰 [PocketSage](https://github.com/umarpazir11/PocketSage)
+AI-powered personal finance assistant built with Kotlin Multiplatform (KMP), LLM integration, and Retrieval-Augmented Generation (RAG).
 
 ### 🤖 [SmartChatbotApp](https://github.com/umarpazir11/SmartChatbotApp)
 AI-powered chatbot application showcasing on-device ML integration.
+
+### 🌐 [compose-multiplatform-app](https://github.com/umarpazir11/compose-multiplatform-app)
+Kotlin Multiplatform app targeting Android & iOS with shared business logic and Compose Multiplatform UI — the flagship demo of KMP-first architecture.
 
 ### 📰 [MyNewsApp](https://github.com/umarpazir11/MyNewsApp)
 News application built with modern Android stack: Kotlin, Retrofit, and Jetpack components.
@@ -113,9 +116,6 @@ A Kotlin-based fitness utility app demonstrating clean architecture and Compose 
 
 ### 🚁 [DroneMapDemo](https://github.com/umarpazir11/DroneMapDemo)
 Unique drone mapping demo app showcasing real-time map integration and IoT-style device control on Android.
-
-### 💰 [PocketSage](https://github.com/umarpazir11/PocketSage)
-AI-powered personal finance assistant built with Kotlin Multiplatform (KMP), LLM integration, and Retrieval-Augmented Generation (RAG).
 
 ---
 
