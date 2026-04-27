@@ -20,10 +20,11 @@
 
 I'm a **Senior Software Engineer with 12+ years of experience** architecting scalable enterprise solutions across **FinTech, Automotive, and Retail** industries.
 
-My core expertise is **native Android development with Kotlin** and **cross-platform strategies with Kotlin Multiplatform (KMP)** — bridging native performance with engineering efficiency. I've shipped production apps for premium brands like **IWC** and **Hansgrohe**, built blockchain identity systems, and deployed on-device AI with TensorFlow Lite.
+My core expertise is **native Android development with Kotlin** and **cross-platform strategies with Kotlin Multiplatform (KMP)** — bridging native performance with engineering efficiency. I've shipped production apps for premium brands like **IWC** and **Hansgrohe**, built blockchain identity systems, and deployed on-device AI with TensorFlow Lite. Beyond mobile, I design **AI Agents** and **LLM-powered workflows** that automate complex engineering tasks — turning cutting-edge AI capabilities into real, production-ready solutions.
 
 - 🔭 Currently building cross-platform mobile solutions at **GAL Digital GmbH**, Germany
-- 🧠 Passionate about **KMP**, **Clean Architecture**, and **AI-assisted development**
+- 🤖 Building **AI Agents**, **LLM integrations** & workflow automation pipelines
+- 🧠 Passionate about **KMP**, **Clean Architecture** & **AI-augmented engineering**
 - 🌍 Working in **Germany** — fluent in English, German (B2), Urdu & Hindi
 - 🎯 Google Certified Associate Android Developer
 
